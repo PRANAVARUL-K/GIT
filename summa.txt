@@ -1,0 +1,223 @@
+Certainly, here are the minutes of meeting for all 13 sessions conducted during the Python workshop:
+
+**Session 1 (30.08.2023 - Introduction to Intermediate Python):**
+
+- The event began at 5:55 PM with a warm welcome from our Secretary, Harish Kumar.
+- From 5:55 to 6:00 PM, Harish Kumar started with a theory class, covering the basics of Python, including how Python is interpreted, dynamic variables, loops, conditional statements, and functions.
+- Participants engaged in a question and answer session from 6:00 to 6:10 PM, where Harish Kumar addressed their doubts.
+- The session concluded at 6:10 PM, with Harish Kumar providing an overview of the course plan for the upcoming sessions, including details about theory sessions and hands-on practical implementations.
+
+**Session 2 (05.09.2023 - Recursion):**
+
+- The event commenced at 5:55 PM.
+- Tarun K T led the session by explaining the concept of recursion in Python, its significance, and real-world applications.
+- Participants had the opportunity to ask questions and engage in discussions from 5:55 to 6:10 PM.
+- Tarun K T concluded the session at 6:10 PM, leaving participants with a deeper understanding of recursion in Python.
+
+**Session 3 (07.09.2023 - Introduction to Data Structures):**
+
+- The event started promptly at 5:55 PM.
+- Navaneeth initiated the session by providing an introduction to data structures in Python, discussing their importance, and sharing insights from the field of AI and Machine Learning.
+- Participants engaged in a lively discussion, and their questions were addressed between 5:55 and 6:10 PM.
+- The session concluded at 6:10 PM, with participants gaining valuable insights into data structures and their applications.
+
+**Session 4 (12.09.2023 - Stacks & Queues):**
+
+- The session commenced at 5:55 PM.
+- Deeksha delved into the topics of stacks and queues, explaining their data structures and practical applications.
+- Participants actively participated in discussions and posed questions from 5:55 to 6:10 PM.
+- The session concluded at 6:10 PM, with participants gaining a better understanding of these data structures.
+
+**Session 5 (14.09.2023 - Hands-on Session: Implementing Stack):**
+
+- The session began at 5:55 PM.
+- Naveen led a practical, hands-on session on implementing stacks in Python. Participants had the opportunity to code and practice during the session.
+- Questions and discussions took place from 5:55 to 6:10 PM, with Naveen providing guidance.
+- The hands-on session concluded at 6:10 PM, with participants having gained practical experience in implementing stacks.
+
+**Session 6 (19.09.2023 - Linked List – 01):**
+
+- The session started at 5:55 PM.
+- Allwin initiated the discussion on linked lists, covering fundamental concepts and their importance.
+- Participants actively engaged in discussions and asked questions between 5:55 and 6:10 PM.
+- The session ended at 6:10 PM, with participants having a strong foundation in linked lists.
+
+**Session 7 (21.09.2023 - Linked List – 02):**
+
+- The session began at 5:55 PM.
+- Sudharshana continued the discussion on linked lists, delving deeper into their applications and variations.
+- Participants actively participated in discussions and posed questions from 5:55 to 6:10 PM.
+- The session concluded at 6:10 PM, with participants having a comprehensive understanding of linked lists.
+
+**Session 8 (26.09.2023 - Doubt Clearing Session):**
+
+- The session began at 5:55 PM.
+- Participants were encouraged to bring forward their doubts and questions, which were addressed by the instructors.
+- The doubt-clearing session provided a valuable opportunity for participants to clarify any uncertainties they had.
+
+**Session 9 (28.09.2023 - Doubt Clearing Session):**
+
+- The session started at 5:55 PM.
+- Similar to the previous doubt-clearing session, participants were given the chance to ask questions and get clarifications on Python-related topics.
+
+**Session 10 (3.10.2023 - Searching Techniques):**
+
+- The session commenced at 5:55 PM.
+- Dinesh discussed various searching techniques in Python, explaining their algorithms and use cases.
+- Participants actively engaged in discussions and posed questions from 5:55 to 6:10 PM.
+- The session ended at 6:10 PM, with participants having a solid understanding of searching techniques.
+
+**Session 11 (5.10.2023 - Sorting Techniques):**
+
+- The session started at 5:55 PM.
+- Divya delved into sorting techniques in Python, covering various sorting algorithms and their efficiency.
+- Participants actively participated in discussions and posed questions from 5:55 to 6:10 PM.
+- The session concluded at 6:10 PM, with participants having a comprehensive understanding of sorting techniques.
+
+**Session 12 (26.10.2023 - Trees & Binary Tree):**
+
+- The session commenced at 5:55 PM.
+- Sneha discussed trees and binary trees in Python, explaining their structures and applications.
+- Participants actively engaged in discussions and posed questions from 5:55 to 6:10 PM.
+- The session ended at 6:10 PM, with participants having a strong foundation in tree structures.
+
+**Session 13 (31.10.2023 - Hands-on Session: Traversing in Tree):**
+
+- The session began at 5:55 PM.
+- Pranav Arul led a hands-on session on traversing in trees, allowing participants to practice tree traversal techniques.
+- Questions and discussions took place from 5:55 to 6:10 PM, with Pranav Arul providing guidance.
+- The hands-on session concluded at 6:10 PM, with participants having gained practical experience in tree traversal.
+
+These minutes provide a comprehensive overview of each session, including the topics covered, speaker interactions, and participant engagement.
+
+Certainly, here are the minutes of meeting for all 12 sessions conducted during the Python workshop, with added technical points according to the topic of each session:
+
+**Session 1 (30.08.2023 - Introduction to Problem Solving and Logic):**
+
+- The event commenced at 5:00 PM with a warm welcome.
+- The session was led by our Secretary, Harish Kumar, who started with a theory class covering problem-solving and logic basics in Python.
+- Participants actively engaged in the discussion from 5:00 to 5:10 PM.
+- **Technical Point**: Harish Kumar emphasized the importance of developing algorithmic thinking and logical problem-solving skills, which are fundamental to programming.
+- The doubts and queries posed by the participants were addressed by Harish Kumar from 5:10 to 5:15 PM.
+- At 5:15 PM, the event concluded with a brief overview of the course plan for upcoming sessions.
+
+**Session 2 (05.09.2023 - Pseudo Code, Flowcharts):**
+
+- The event began at 5:00 PM.
+- Jayanth from the DCS department initiated the session, focusing on pseudo code and flowcharts.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Jayanth explained how using pseudo code and flowcharts as visual tools can help in planning and designing algorithms and logic before coding, which aids in problem-solving.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session ended at 5:15 PM, leaving participants with valuable insights into pseudo code and flowcharts.
+
+**Session 3 (07.09.2023 - Introduction to Python):**
+
+- The event started at 5:00 PM.
+- Shanmuga Prakash from the AIML department conducted a session introducing Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Shanmuga Prakash highlighted Python's versatility and how it supports multiple programming paradigms, making it a powerful language for various applications.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session concluded at 5:15 PM, with participants gaining a foundational understanding of Python.
+
+(Continuing with the remaining sessions...)
+
+(Note: The technical points are added to provide context related to the session topics and may vary based on the session content.)
+
+Certainly, here are the minutes of meeting for the Python workshop sessions starting from Session 4:
+
+**Session 4 (12.09.2023 - Variables, Data Types, Basic Input/Output):**
+
+- The session commenced at 5:00 PM.
+- Vaishali from the DCS department led a session covering variables, data types, and basic input/output in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Vaishali explained the significance of choosing appropriate data types in Python for efficient memory usage and how Python's dynamic typing simplifies variable declaration.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session ended at 5:15 PM, with participants having a strong grasp of these fundamental Python concepts.
+
+**Session 5 (14.09.2023 - Control Flow and Loops):**
+
+- The session began at 5:00 PM.
+- Mathyer Vishunu from the AIML department delved into control flow and loops in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Mathyer Vishunu explained how control flow statements like `if`, `else`, and `while` loops are used to create conditional and repetitive execution structures in Python.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session concluded at 5:15 PM, with participants having a deeper understanding of control flow and loops.
+
+**Session 6 (19.09.2023 - Functions):**
+
+- The session started at 5:00 PM.
+- Kavya from the DS department led a session focused on functions in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Kavya emphasized the importance of functions in modular programming, code reusability, and how to define, call, and pass arguments to functions in Python.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session ended at 5:15 PM, leaving participants with practical knowledge of Python functions.
+
+(Note: The minutes for the remaining sessions can be structured similarly, covering the topics covered, speaker interactions, and participant engagement during each session, along with relevant technical points.)
+Certainly, here are the minutes of meeting for Python workshop sessions starting from Session 7 to Session 12:
+
+**Session 7 (21.09.2023 - Hands-on Session: Control flow, loops, Functions):**
+
+- The session began at 5:00 PM.
+- Praveena from the DS department conducted a hands-on session covering control flow, loops, and functions in Python.
+- Participants actively engaged in practical exercises and discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Praveena guided participants through writing code to implement control flow structures, loops, and functions. Emphasis was placed on hands-on practice and debugging.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session concluded at 5:15 PM, with participants having gained practical experience in these fundamental Python concepts.
+
+**Session 8 (26.09.2023 - Doubt Clearing Session):**
+
+- The session began at 5:00 PM.
+- Participants were encouraged to bring forward their doubts and questions related to Python.
+- **Technical Point**: The session focused on addressing specific doubts and clarifications that participants had about previous topics, providing in-depth answers and solutions.
+- The doubt-clearing session provided a valuable opportunity for participants to clarify any uncertainties they had.
+
+**Session 9 (03.10.2023 - Lists, Tuples, Dictionaries and Sets):**
+
+- The session commenced at 5:00 PM.
+- Prithika from the DS department led a session covering data structures like lists, tuples, dictionaries, and sets in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Prithika discussed the characteristics and use cases of lists, tuples, dictionaries, and sets in Python, highlighting their strengths and when to choose each data structure.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session ended at 5:15 PM, with participants having a strong understanding of these Python data structures.
+
+**Session 10 (05.10.2023 - String Manipulation and File Handling):**
+
+- The session began at 5:00 PM.
+- Jagdeesh from the DS department conducted a session on string manipulation and file handling in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Jagdeesh explained the various string manipulation techniques, including slicing, concatenation, and formatting, as well as file handling for reading and writing data.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session concluded at 5:15 PM, with participants having a comprehensive understanding of string manipulation and file handling.
+
+**Session 11 (10.10.2023 - Exception Handling):**
+
+- The session started at 5:00 PM.
+- Ram Sanjay from the DS department led a session on exception handling in Python.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Ram Sanjay explained how exception handling allows for graceful error handling in Python, and he demonstrated the use of try, except, and finally blocks.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session ended at 5:15 PM, with participants having a strong understanding of Python's exception handling mechanisms.
+
+**Session 12 (12.10.2023 - Modules and Libraries):**
+
+- The session commenced at 5:00 PM.
+- Snegith from the AIML department conducted a session on Python modules and libraries.
+- Participants actively engaged in discussions from 5:00 to 5:10 PM.
+- **Technical Point**: Snegith introduced participants to the concept of Python modules and demonstrated how to import and use built-in and external libraries to extend Python's functionality.
+- The doubts and questions posed by the participants were addressed from 5:10 to 5:15 PM.
+- The session concluded at 5:15 PM, with participants having gained knowledge about Python's module and library ecosystem.
+
+These minutes provide an overview of each session, including the topics covered, speaker interactions, and participant engagement, along with relevant technical points.
+
+
+"Coding Season" is a dynamic and collaborative event where students take the lead in teaching their peers the fundamentals of Python programming. Over the course of this exciting event, participants delve into the world of Python, exploring topics such as variables, data types, and control structures. This immersive learning experience goes beyond the basics, delving into advanced concepts like function exceptional handling, a key focus that empowers attendees to tackle more complex coding challenges with confidence.
+
+Throughout "Coding Season," students will have the opportunity to engage in hands-on coding exercises, hone their problem-solving skills, and master the art of modular code design through the exploration of functions and libraries. 
+
+is an exciting educational event where students take the reins as mentors and delve into the world of data structures in Python. This event is a unique opportunity for intermediate-level programmers to enhance their coding prowess and learn the art of problem-solving.
+
+Participants can expect in-depth sessions on a variety of essential data structures, including stacks, queues, linked lists, trees, and more. Throughout the event, students will not only gain a solid understanding of these data structures but also develop practical coding skills to implement them effectively in Python.
+
+"Code or Dare" is a thrilling team-based event where participants join forces in groups of four to showcase their coding skills and courage. The challenge begins as teams are presented with a problem statement that they must code to solve. Successful execution of the code leads to a clue, while unsuccessful attempts require participants to face dares in exchange for hints.
+
+The clues in "Code or Dare" are uniquely tied to various movies, adding a fun twist to the coding adventure. Participants have one hour to crack a maximum of six codes, with the opportunity to earn extra clues by tackling dares head-on.
